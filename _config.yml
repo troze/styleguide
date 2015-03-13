@@ -1,8 +1,8 @@
 title: Pattern Library
 description: A collection of patterns to help you build up a style guide for your site
 
-baseurl: "troze.github.io"
-url: /styleguide
+baseurl: "/styleguide"
+url: "http://troze.github.io"
 
 source:      .
 destination: ./_site

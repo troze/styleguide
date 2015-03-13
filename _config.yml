@@ -15,7 +15,7 @@ gems:        []
 timezone:    America/New_York
 markdown:    kramdown
 permalink:   pretty
-highlighter: pygments
+highlighter: null
 
 collections:
 - patterns
